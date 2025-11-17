@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "src/factorial.hpp"
+#include "src/tree.hpp"
 
 int main() {
-  std::cout << "The factorial of 5 is " << factorial(5) << std::endl;
+  std::cout << "The factorial of 5 is " << std::endl;
 }
